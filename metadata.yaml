@@ -1,0 +1,30 @@
+_repo: Our-Bird-Comrades_26346
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26346-h/images/img-covert.jpg
+creator:
+  author:
+    agent_name: Keyser, Leander S. (Leander Sylvester)
+    alias: Keyser, L. S. (Leander Sylvester)
+    birthdate: 1856
+    deathdate: 1937
+    gutenberg_agent_id: '31703'
+    url: http://www.gutenberg.org/2009/agents/31703
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Natural History
+gutenberg_issued: '2008-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds'
+- !lcc 'QL'
+title: Our Bird Comrades
+url: http://www.gutenberg.org/ebooks/26346
